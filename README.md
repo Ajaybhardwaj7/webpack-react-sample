@@ -9,6 +9,6 @@ Step 3 : Run 'npm run start' cmd. This will create the web dev server at the def
 
 Now any changes to the main.js file will auto refresh the browser with new changes.
 
-#
+#Ignore dist folder and info.png for the time being. As this can be used to create multiple bundle file. Try once!
 
 
